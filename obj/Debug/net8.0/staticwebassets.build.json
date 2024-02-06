@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "kniuVmQxP3G4DzByrqGph/j3ygiwoK27Wzq1/9C/DOQ=",
+  "Source": "SP2024-Assignment1-jirafay",
+  "BasePath": "_content/SP2024-Assignment1-jirafay",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SP2024-Assignment1-jirafay/wwwroot",
+      "Source": "SP2024-Assignment1-jirafay",
+      "ContentRoot": "/Users/uzmaraja/Desktop/SP2024-Assignment1-jirafay/wwwroot/",
+      "BasePath": "_content/SP2024-Assignment1-jirafay",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/uzmaraja/Desktop/SP2024-Assignment1-jirafay/wwwroot/index.html",
+      "SourceId": "SP2024-Assignment1-jirafay",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/uzmaraja/Desktop/SP2024-Assignment1-jirafay/wwwroot/",
+      "BasePath": "_content/SP2024-Assignment1-jirafay",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    }
+  ]
+}

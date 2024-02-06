@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/uzmaraja/Desktop/SP2024-Assignment1-jirafay/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.SP2024-Assignment1-jirafay.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.SP2024-Assignment1-jirafay.props",
+      "PackagePath": "build\\SP2024-Assignment1-jirafay.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.SP2024-Assignment1-jirafay.props",
+      "PackagePath": "buildMultiTargeting\\SP2024-Assignment1-jirafay.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.SP2024-Assignment1-jirafay.props",
+      "PackagePath": "buildTransitive\\SP2024-Assignment1-jirafay.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
